@@ -1,3 +1,38 @@
 site_name: Pawns of Despair
 theme:
   name: material
+  palette:
+    # Palette toggle for automatic mode
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/brightness-auto
+        name: Switch to light mode
+
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default 
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to system preference
+nav:
+  - Index Page: index.md
+  - Intro: basicPages/intro.md
+  - Motivations and Game Comparisons: basicPages/motivations.md
+  - Basic Mechanics: basicPages/basicMechanics.md
+  - Character Templates: basicPages/characterTemplates.md
+  - Range Image Templates: basicPages/rangeTemplates.md
+  - Game Modes, Maps, and Story: basicPages/gameModes.md
+  - General Strategies: basicPages/strategies.md
+  - How to Play (Pen and Paper): basicPages/penAndPaper.md
+  - Patch Notes and Technical Details: basicPages/patchNotes.md
+  - Pawns (implemented): pawnsImplemented/pawnsImplemented.md
+  - Pawns (Designed): pawnsDesigned/pawnsDesigned.md
+  - Pawns (Backlogged): pawnsBacklogged/pawnsBacklogged.md
+  - Pawn Scrap Pad: basicPages/pawnScrapPad.md
