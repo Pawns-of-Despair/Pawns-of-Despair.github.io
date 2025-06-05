@@ -49,3 +49,5 @@ Aesthetic is similar to Battle Brothers, but I never played this game.
 Heroes of the Storm has a talent tree system that is well fit for what I’d like for skill trees. Same as Partisans 1941, which has an amazingly similar skill tree system. 
 
 Many of these games don’t have multiplayer and I would like to play some sort of turn based gameplay cooperative or even competitive with friends.
+
+<br>

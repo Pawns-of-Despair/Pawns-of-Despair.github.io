@@ -1,4 +1,10 @@
 site_name: Pawns of Despair
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - pymdownx.blocks.caption
+extra_css:
+  - stylesheets/styles.css
 theme:
   name: material
   palette:
@@ -27,7 +33,6 @@ nav:
   - Motivations and Game Comparisons: basicPages/motivations.md
   - Basic Mechanics: basicPages/basicMechanics.md
   - Character Templates: basicPages/characterTemplates.md
-  - Range Image Templates: basicPages/rangeTemplates.md
   - Game Modes, Maps, and Story: basicPages/gameModes.md
   - General Strategies: basicPages/strategies.md
   - How to Play (Pen and Paper): basicPages/penAndPaper.md

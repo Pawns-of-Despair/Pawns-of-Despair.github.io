@@ -4,13 +4,13 @@ The game goes as follows: your turn, their turn, your turn, their turn (assuming
 
 To balance against the first team moving in an advantage, the second and later teams gets scaling Brace, Focus, and Haste (damage reduction, higher starting MP, and higher starting AP) to make up for the lost turn. Each later turn would be an extra 10% Brace and 1 AP Haste.
 
-[https://luxsdg.github.io/Pawns of Despair/podUtility.html](https://luxsdg.github.io/Pawns%20of%20Despair/podUtility.html)
+[Combat Calculator](https://luxsdg.github.io/Pawns%20of%20Despair/podUtility.html)
 
 This is a calculator to simulate battles easier.
 
 <br>
 
-**Each character will have access to the following actions:**
+### **Each character will have access to the following actions:**
 
 Move - Move 1 tile per movement point.
 
@@ -26,7 +26,7 @@ Unless stated, all statuses and buffs last for 1 turn.
 
 <br>
 
-**Characters have the following stats:**
+### **Characters have the following stats:**
 
 Level - Gained based on fights cleared/set. Stays consistent across all characters. No max level, grants 2 skill points per level. New abilities are gained on level 1, 3, 5, and 7.
 
@@ -48,7 +48,7 @@ Cooldown - If the ability has X turns before using again.
 
 <br>
 
-**Statuses and debuffs (crowd control or CC):**
+### **Statuses and debuffs (crowd control or CC):**
 
 Slow - Decrease MP.
 
@@ -72,7 +72,7 @@ Damage over Time (DoT) - Damage character over X turns.
 
 <br>
 
-**Buffs:**
+### **Buffs:**
 
 Haste - Increase MP.
 
@@ -100,19 +100,19 @@ Invulnerable - Cannot be damaged or statused (CC’d).
 
 <br>
 
-**Content to unlock:**
+### **Content to unlock:**
 
 Every character (Pawn) is unlocked immediately, and skill tree progression is done per game. Goal is not to gate players on content, but open the floor for team composition and thinking outside the box. There may be cosmetics to unlock over time or over specific curated content, or achievements.
 
 <br>
 
-**Monetization:**
+### **Monetization:**
 
 I am considering skins through a currency system (that can be unlocked by grinding, paying, or ad watching), and donation through Patreon system. No paid game or paid unlockable gameplay content. I am interested in exploring a roguelike + currency/ad system. Not sure how to implement that.
 
 <br>
 
-**Difficulties (generally):**
+### **Difficulties (generally):**
 
 Easy: Avenger, Bard, Bishop, Firebrand, Hellhound, King, Stalker, Thorn
 
@@ -122,8 +122,10 @@ Hard: Bandit, Brain, Cerberus, Deathbringer, Diamond, Facade, Ghost, Joker, Lotu
 
 <br>
 
-**Lists of Notable Functions:**
+### **Lists of Notable Functions:**
 
 Can function as a main tank: Acerhino, Agent, Avenger, Bladesaint, Brain, Commissar, Hellhound, King, Lynx, Marvel, Metal, Nuke, Oven, Pacifist, Painkiller, Primordial, Prism, Psyche, Scarab, Sharklifter, Thorn, Wolf
 
 Can function as a healer: Avenger, Bard, Bandit, Bishop, Brain, Bullseye, Cerberus, Commissar, Deathbringer, Diamond, Dracon, Firebrand, Fixer, Ghost, Hunter, Joker, King, Lotus, Lynx, Maestro, Nomad, Oven, Pacifist, Painkiller, Psyche, Scarab, Vulture
+
+<br>

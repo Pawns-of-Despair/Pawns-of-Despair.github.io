@@ -6,15 +6,15 @@ Over time, build more features. Prioritize content (enemies, test subjects), ran
 
 <br>
 
-https://mathies.ca/tools/ColourTiles/index.html
+[Color Tile Tool](https://mathies.ca/tools/ColourTiles/index.html)
 
 A tool for creating the table + range images, also for general playtesting.
 
-https://docs.google.com/spreadsheets/d/1TnRWQO8AqMCKTs4coh4KjBzdS4kbZ0crADjyUWOCoJg/edit?usp=sharing
+[PoD Test Board](https://docs.google.com/spreadsheets/d/1TnRWQO8AqMCKTs4coh4KjBzdS4kbZ0crADjyUWOCoJg/edit?usp=sharing)
 
 This is a spreadsheet for testing as well, which could be good for collaborative playtesting.
 
-[https://luxsdg.github.io/Pawns of Despair/podUtility.html](https://luxsdg.github.io/Pawns%20of%20Despair/podUtility.html)
+[Combat Calculator](https://luxsdg.github.io/Pawns%20of%20Despair/podUtility.html)
 
 This is a calculator to simulate battles easier.
 
@@ -26,6 +26,8 @@ For document writing, previously we used Notion, and we can export this as a pdf
 
 <br>
 
-**Version numbering:** 
+### **Version numbering:** 
 
 Major.Minor.Patch.Hotfix
+
+<br>

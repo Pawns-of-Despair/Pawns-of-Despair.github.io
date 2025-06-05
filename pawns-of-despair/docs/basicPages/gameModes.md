@@ -49,3 +49,5 @@ Respawns are possible for all (kill X units, keep going until unit is escorted, 
 Tile sets are to be determined. Need to come up with custom maps and custom tile effects. 
 
 Story is based on curated content, with some content in roguelike mode too focused on the present and future, whereas the curated content is focused on the past.
+
+<br>

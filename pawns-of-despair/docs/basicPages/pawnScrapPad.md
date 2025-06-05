@@ -4,7 +4,7 @@ Codename - General concept - Similarities - Roles - Difficulty
 
 <br>
 
-**Difficulties (generally):**
+### **Difficulties (generally):**
 
 Easy: Avenger, Bard, Bishop, Firebrand, Hellhound, King, Stalker, Thorn
 
@@ -14,7 +14,7 @@ Hard: Bandit, Brain, Cerberus, Deathbringer, Diamond, Facade, Ghost, Joker, Lotu
 
 <br>
 
-**Lists of Notable Functions:**
+### **Lists of Notable Functions:**
 
 Can function as a main tank: Acerhino, Agent, Avenger, Bladesaint, Brain, Commissar, Hellhound, King, Lynx, Marvel, Metal, Nuke, Oven, Pacifist, Painkiller, Primordial, Prism, Psyche, Scarab, Sharklifter, Thorn, Wolf
 
@@ -22,7 +22,7 @@ Can function as a healer: Avenger, Bard, Bandit, Bishop, Brain, Bullseye, Cerber
 
 <br>
 
-Patch 1:
+### Patch 1:
 
 Agent - Corrupt Cop - Isaac, Darko, Marimede, Aya - Tank (Core), Assassin - Medium
 
@@ -54,7 +54,7 @@ Wolf - Cowboy with a dog (Houndmaster) - Chloe, Marimede - Bruiser (Core), Range
 
 <br>
 
-Patch 2:
+### Patch 2:
 
 Acerhino - Rhino rider - Silvia, Irem - Tank (Core), Bruiser - Medium
 
@@ -104,7 +104,7 @@ Vulture - Psychopath doctor assassin healer - Cathy, Seward, Jackie - Assassin, 
 
 <br>
 
-Patch 3:
+### Patch 3:
 
 Bandit - Suicide murky character - Leni - Ranger, Support (Core) - Hard
 
@@ -137,3 +137,5 @@ Slayer - Super Soldier futuristic guns and melee, turret, put guns on turret - A
 <br>
 
 Patch 4:
+
+<br>

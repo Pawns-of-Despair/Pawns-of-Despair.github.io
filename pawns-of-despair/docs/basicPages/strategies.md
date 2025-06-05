@@ -8,7 +8,7 @@ The list includes:
 - Turtle
 - AP Economy
 
-Details:
+### Details:
 
 There's a standard frontline/backline/support style that you can do, which generally focuses on consistent aggressive damage, doing enough damage to constantly keep forcing forward and taking stronger positions.
 
@@ -19,3 +19,5 @@ There's a combo oriented style that requires doing some specific playstyle/strat
 There's a turtle strategy to focus on tile positioning and advantageous positions, defensive style. This style of play utilizes tile bonuses, cover, terrain, and overwatch significantly to force the enemy into a poor positioning.
 
 There's a strategy to try to force AP advantages, in order to outsustain the enemy and force them to not be able to do very much. This allows you to play lower damage, and slowly whittle the enemy down since they have no AP.
+
+<br>
