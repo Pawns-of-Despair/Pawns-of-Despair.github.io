@@ -36,7 +36,7 @@ Facade - Gunman with multiple personas, mccree - Jenny, Rozzi, Silvia, Aya - Ass
 
 Firebrand - All powerful elemental mage - Lenore, Priya, Yumin, Zahir, Adriana - Mage (Core), Support - Easy
 
-Fixer - Combat Engineer, trapper - Isol, Ruiko - Mage, Support (Core) - Medium
+Fixer - Combat Engineer, trapper, turret/drone summoning - Isol, Ruiko, Barbara, Justyna - Mage, Support (Core) - Medium
 
 Hellhound - Biker from hell with centaur cart - Magnus - Tank (Core), Assassin - Easy
 
@@ -60,7 +60,7 @@ Acerhino - Rhino rider - Silvia, Irem - Tank (Core), Bruiser - Medium
 
 Bard - Musician healer - Hart, Priya, Lenore - Mage, Support (Core) - Easy
 
-Brink - Duelist character (straight edge, pure fencing melee) - Fiora, Camilo, Elena - Bruiser, Assassin (Core) - Medium
+Brink - Duelist character (straight edge, pure fencing melee) - Fiora, Camilo, Istvan, Elena - Bruiser, Assassin (Core) - Medium
 
 Bullseye - Elemental bowman, dousing and setting on fire to heal - Rio, Adriana - Mage, Ranger (Core), Support - Medium
 
@@ -88,7 +88,7 @@ Nuke - Fat bomb guy - Celine - Tank, Mage (Core) - Medium
 
 Oven - Cooking food chef - Xiukai - Tank + Heals (Core), Bruiser - Medium
 
-Pacifist - Alien Monk dancer fists - Hyunwoo, Jan, Nicky, Piolo, Leon - Tank + Heals (no damage?), Bruiser (Core), Assassin, - Medium
+Pacifist - Alien Monk dancer fists - Hyunwoo, Jan, Nicky, Piolo, Leon - Tank + Heals (no damage?), Bruiser (Core), Assassin - Medium
 
 Painkiller - Lifedrain tank healer, mage damage dealer - Bianca, Sissela, Jackie - Tank + Heals, Mage (Core) - Medium
 
@@ -98,7 +98,7 @@ Scarab - Arabic buff melee brawler - Markus, Rosalio, Nicky - Tank + Heals, Brui
 
 Thorn - Bristleback, rammus, thornmail - Mai - Tank, Bruiser (Core) - Easy
 
-Victor - Other board game character (self made board game) - Adela, Ruiko - Assassin, Mage (Core) - Hard
+Victor - Other board game character (self made board game) - Adela, Niah, Ruiko - Assassin, Mage (Core) - Hard
 
 Vulture - Psychopath doctor assassin healer - Cathy, Seward, Jackie - Assassin, Support (Core) - Medium
 
@@ -132,7 +132,7 @@ Shade - Daggers or something to pick up everywhere assassin - Shoichi, Tazia, Wi
 
 Shuriken - Throwing weapons at people, Telekinesis - Eva, Zahir - Mage (Core), Ranger - Hard
 
-Slayer - Super Soldier futuristic guns and melee, turret, put guns on turret - Alex, Raffles, Barbara, Theodore (steal weapons) - Assassin, Ranger (Core) - Hard
+Slayer - Super Soldier futuristic guns and melee, steal weapons - Alex, Raffles, Theodore - Assassin, Ranger (Core) - Hard
 
 <br>
 
