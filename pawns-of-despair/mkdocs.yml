@@ -186,14 +186,14 @@ nav:
       - Thorn: pawnsDesigned/Thorn/Thorn.md
       - Thorn - Tank: pawnsDesigned/Thorn/ThornTank.md
       - Thorn - Bruiser: pawnsDesigned/Thorn/ThornBruiser.md
-    - Vulture:
-      - Vulture: pawnsDesigned/Vulture/Vulture.md
-      - Vulture - Assassin: pawnsDesigned/Vulture/VultureAssassin.md
-      - Vulture - Support: pawnsDesigned/Vulture/VultureSupport.md
     - Victor:
       - Victor: pawnsDesigned/Victor/Victor.md
       - Victor - Assassin: pawnsDesigned/Victor/VictorAssassin.md
       - Victor - Mage: pawnsDesigned/Victor/VictorMage.md
+    - Vulture:
+      - Vulture: pawnsDesigned/Vulture/Vulture.md
+      - Vulture - Assassin: pawnsDesigned/Vulture/VultureAssassin.md
+      - Vulture - Support: pawnsDesigned/Vulture/VultureSupport.md
   - Pawns (Backlogged):
     - Bandit:
       - Bandit: pawnsBacklogged/Bandit/Bandit.md
