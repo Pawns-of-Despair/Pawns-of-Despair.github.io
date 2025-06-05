@@ -1,5 +1,5 @@
 
-Difficulty: Medium
+Difficulty: Easy
 
 - 
 
