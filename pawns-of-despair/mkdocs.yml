@@ -37,7 +37,14 @@ nav:
   - General Strategies: basicPages/strategies.md
   - How to Play (Pen and Paper): basicPages/penAndPaper.md
   - Patch Notes and Technical Details: basicPages/patchNotes.md
-  - Pawns (implemented): pawnsImplemented/pawnsImplemented.md
-  - Pawns (Designed): pawnsDesigned/pawnsDesigned.md
-  - Pawns (Backlogged): pawnsBacklogged/pawnsBacklogged.md
+  - Pawns List: basicPages/pawnsList.md
+  - Pawns (implemented):
+    - Agent:
+      - Agent: pawnsImplemented/Agent/Agent.md
+      - Agent - Tank: pawnsImplemented/Agent/AgentTank.md
+    - Pawns List: basicPages/pawnsList.md
+  - Pawns (Designed):
+    - Pawns List: basicPages/pawnsList.md
+  - Pawns (Backlogged):
+    - Pawns List: basicPages/pawnsList.md
   - Pawn Scrap Pad: basicPages/pawnScrapPad.md

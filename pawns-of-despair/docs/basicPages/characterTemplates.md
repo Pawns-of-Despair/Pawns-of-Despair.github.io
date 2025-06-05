@@ -53,7 +53,7 @@ Basic Attack:
 10 Damage
 ```
 
-![3_Tiles.png](basicPageImages/3_Tiles.png){ width="350",align=right }
+![Single5.png](/rangeImages/Single5.png){ width="350",align=right }
 </div>
 
 The above shows that the character has 10 MP and 5 AP. It also shows that the Basic Attack from player (gray square) can attack a single unit (red square) in a single tile up to 5 tiles away. These are some baseline stats that generally would fit a normal character.
@@ -72,7 +72,7 @@ Unlocks: Ability 2
 Description
 ```
 
-![2_Tiles.png](basicPageImages/2_Tiles.png){ width="350",align=right }
+![AoE5.png](/rangeImages/AoE5.png){ width="350",align=right }
 </div>
 
 The above shows that the Ability is an AoE, hitting all enemy units 5 tiles away. These are some baseline stats that generally would fit a normal active ability.
