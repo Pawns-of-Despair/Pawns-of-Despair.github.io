@@ -38,13 +38,219 @@ nav:
   - How to Play (Pen and Paper): basicPages/penAndPaper.md
   - Patch Notes and Technical Details: basicPages/patchNotes.md
   - Pawns List: basicPages/pawnsList.md
+  - Pawn Scrap Pad: basicPages/pawnScrapPad.md
   - Pawns (implemented):
     - Agent:
       - Agent: pawnsImplemented/Agent/Agent.md
       - Agent - Tank: pawnsImplemented/Agent/AgentTank.md
-    - Pawns List: basicPages/pawnsList.md
+      - Agent - Assassin: pawnsImplemented/Agent/AgentAssassin.md
+    - Avenger:
+      - Avenger: pawnsImplemented/Avenger/Avenger.md
+      - Avenger - Tank: pawnsImplemented/Avenger/AvengerTank.md
+      - Avenger - Bruiser: pawnsImplemented/Avenger/AvengerBruiser.md
+    - Bishop:
+      - Bishop: pawnsImplemented/Bishop/Bishop.md
+      - Bishop - Ranger: pawnsImplemented/Bishop/BishopRanger.md
+      - Bishop - Support: pawnsImplemented/Bishop/BishopSupport.md
+    - Bladesaint:
+      - Bladesaint: pawnsImplemented/Bladesaint/Bladesaint.md
+      - Bladesaint - Tank: pawnsImplemented/Bladesaint/BladesaintTank.md
+      - Bladesaint - Bruiser: pawnsImplemented/Bladesaint/BladesaintBruiser.md
+    - Facade:
+      - Facade: pawnsImplemented/Facade/Facade.md
+      - Facade - Assassin: pawnsImplemented/Facade/FacadeAssassin.md
+      - Facade - Ranger: pawnsImplemented/Facade/FacadeRanger.md
+    - Firebrand:
+      - Firebrand: pawnsImplemented/Firebrand/Firebrand.md
+      - Firebrand - Mage: pawnsImplemented/Firebrand/FirebrandMage.md
+      - Firebrand - Support: pawnsImplemented/Firebrand/FirebrandSupport.md
+    - Fixer:
+      - Fixer: pawnsImplemented/Fixer/Fixer.md
+      - Fixer - Mage: pawnsImplemented/Fixer/FixerMage.md
+      - Fixer - Support: pawnsImplemented/Fixer/FixerSupport.md
+    - Hellhound:
+      - Hellhound: pawnsImplemented/Hellhound/Hellhound.md
+      - Hellhound - Tank: pawnsImplemented/Hellhound/HellhoundTank.md
+      - Hellhound - Assassin: pawnsImplemented/Hellhound/HellhoundAssassin.md
+    - King:
+      - King: pawnsImplemented/King/King.md
+      - King - Tank: pawnsImplemented/King/KingTank.md
+      - King - Bruiser: pawnsImplemented/King/KingBruiser.md
+    - Legend:
+      - Legend: pawnsImplemented/Legend/Legend.md
+      - Legend - Mage: pawnsImplemented/Legend/LegendMage.md
+      - Legend - Ranger: pawnsImplemented/Legend/LegendRanger.md
+    - Sharklifter:
+      - Sharklifter: pawnsImplemented/Sharklifter/Sharklifter.md
+      - Sharklifter - Tank: pawnsImplemented/Sharklifter/SharklifterTank.md
+      - Sharklifter - Assassin: pawnsImplemented/Sharklifter/SharklifterAssassin.md
+    - Stalker:
+      - Stalker: pawnsImplemented/Stalker/Stalker.md
+      - Stalker - Assassin: pawnsImplemented/Stalker/StalkerAssassin.md
+      - Stalker - Ranger: pawnsImplemented/Stalker/StalkerRanger.md
+    - Supernova:
+      - Supernova: pawnsImplemented/Supernova/Supernova.md
+      - Supernova - Mage: pawnsImplemented/Supernova/SupernovaMage.md
+      - Supernova - Ranger: pawnsImplemented/Supernova/SupernovaRanger.md
+    - Wolf:
+      - Wolf: pawnsImplemented/Wolf/Wolf.md
+      - Wolf - Bruiser: pawnsImplemented/Wolf/WolfBruiser.md
+      - Wolf - Ranger: pawnsImplemented/Wolf/WolfRanger.md
   - Pawns (Designed):
-    - Pawns List: basicPages/pawnsList.md
+    - Acerhino:
+      - Acerhino: pawnsDesigned/Acerhino/Acerhino.md
+      - Acerhino - Tank: pawnsDesigned/Acerhino/AcerhinoTank.md
+      - Acerhino - Bruiser: pawnsDesigned/Acerhino/AcerhinoBruiser.md
+    - Bard:
+      - Bard: pawnsDesigned/Bard/Bard.md
+      - Bard - Mage: pawnsDesigned/Bard/BardMage.md
+      - Bard - Support: pawnsDesigned/Bard/BardSupport.md
+    - Brink:
+      - Brink: pawnsDesigned/Brink/Brink.md
+      - Brink - Bruiser: pawnsDesigned/Brink/BrinkBruiser.md
+      - Brink - Assassin: pawnsDesigned/Brink/BrinkAssassin.md
+    - Bullseye:
+      - Bullseye: pawnsDesigned/Bullseye/Bullseye.md
+      - Bullseye - Mage: pawnsDesigned/Bullseye/BullseyeMage.md
+      - Bullseye - Ranger: pawnsDesigned/Bullseye/BullseyeRanger.md
+      - Bullseye - Support: pawnsDesigned/Bullseye/BullseyeSupport.md
+    - Commissar:
+      - Commissar: pawnsDesigned/Commissar/Commissar.md
+      - Commissar - Tank: pawnsDesigned/Commissar/CommissarTank.md
+      - Commissar - Bruiser: pawnsDesigned/Commissar/CommissarBruiser.md
+    - Darklord:
+      - Darklord: pawnsDesigned/Darklord/Darklord.md
+      - Darklord - Bruiser: pawnsDesigned/Darklord/DarklordBruiser.md
+      - Darklord - Assassin: pawnsDesigned/Darklord/DarklordAssassin.md
+    - Deathbringer:
+      - Deathbringer: pawnsDesigned/Deathbringer/Deathbringer.md
+      - Deathbringer - Bruiser: pawnsDesigned/Deathbringer/DeathbringerBruiser.md
+      - Deathbringer - Assassin: pawnsDesigned/Deathbringer/DeathbringerAssassin.md
+      - Deathbringer - Support: pawnsDesigned/Deathbringer/DeathbringerSupport.md
+    - Director:
+      - Director: pawnsDesigned/Director/Director.md
+      - Director - Bruiser: pawnsDesigned/Director/DirectorBruiser.md
+      - Director - Assassin: pawnsDesigned/Director/DirectorAssassin.md
+    - Dracon:
+      - Dracon: pawnsDesigned/Dracon/Dracon.md
+      - Dracon - Mage: pawnsDesigned/Dracon/DraconMage.md
+      - Dracon - Support: pawnsDesigned/Dracon/DraconSupport.md
+    - Hunter:
+      - Hunter: pawnsDesigned/Hunter/Hunter.md
+      - Hunter - Ranger: pawnsDesigned/Hunter/HunterRanger.md
+      - Hunter - Support: pawnsDesigned/Hunter/HunterSupport.md
+    - Joker:
+      - Joker: pawnsDesigned/Joker/Joker.md
+      - Joker - Mage: pawnsDesigned/Joker/JokerMage.md
+      - Joker - Ranger: pawnsDesigned/Joker/JokerRanger.md
+      - Joker - Support: pawnsDesigned/Joker/JokerSupport.md
+    - Lotus:
+      - Lotus: pawnsDesigned/Lotus/Lotus.md
+      - Lotus - Mage: pawnsDesigned/Lotus/LotusMage.md
+      - Lotus - Support: pawnsDesigned/Lotus/LotusSupport.md
+    - Maestro:
+      - Maestro: pawnsDesigned/Maestro/Maestro.md
+      - Maestro - Mage: pawnsDesigned/Maestro/MaestroMage.md
+      - Maestro - Support: pawnsDesigned/Maestro/MaestroSupport.md
+    - Metal:
+      - Metal: pawnsDesigned/Metal/Metal.md
+      - Metal - Tank: pawnsDesigned/Metal/MetalTank.md
+      - Metal - Bruiser: pawnsDesigned/Metal/MetalBruiser.md
+    - Nuke:
+      - Nuke: pawnsDesigned/Nuke/Nuke.md
+      - Nuke - Tank: pawnsDesigned/Nuke/NukeTank.md
+      - Nuke - Mage: pawnsDesigned/Nuke/NukeMage.md
+    - Oven:
+      - Oven: pawnsDesigned/Oven/Oven.md
+      - Oven - Tank: pawnsDesigned/Oven/OvenTank.md
+      - Oven - Bruiser: pawnsDesigned/Oven/OvenBruiser.md
+    - Pacifist:
+      - Pacifist: pawnsDesigned/Pacifist/Pacifist.md
+      - Pacifist - Tank: pawnsDesigned/Pacifist/PacifistTank.md
+      - Pacifist - Bruiser: pawnsDesigned/Pacifist/PacifistBruiser.md
+      - Pacifist - Assassin: pawnsDesigned/Pacifist/PacifistAssassin.md
+    - Painkiller:
+      - Painkiller: pawnsDesigned/Painkiller/Painkiller.md
+      - Painkiller - Tank: pawnsDesigned/Painkiller/PainkillerTank.md
+      - Painkiller - Mage: pawnsDesigned/Painkiller/PainkillerMage.md
+    - Prism:
+      - Prism: pawnsDesigned/Prism/Prism.md
+      - Prism - Bruiser: pawnsDesigned/Prism/PrismBruiser.md
+      - Prism - Assassin: pawnsDesigned/Prism/PrismAssassin.md
+    - Scarab:
+      - Scarab: pawnsDesigned/Scarab/Scarab.md
+      - Scarab - Tank: pawnsDesigned/Scarab/ScarabTank.md
+      - Scarab - Bruiser: pawnsDesigned/Scarab/ScarabBruiser.md
+      - Scarab - Ranger: pawnsDesigned/Scarab/ScarabRanger.md
+    - Thorn:
+      - Thorn: pawnsDesigned/Thorn/Thorn.md
+      - Thorn - Tank: pawnsDesigned/Thorn/ThornTank.md
+      - Thorn - Bruiser: pawnsDesigned/Thorn/ThornBruiser.md
+    - Vulture:
+      - Vulture: pawnsDesigned/Vulture/Vulture.md
+      - Vulture - Assassin: pawnsDesigned/Vulture/VultureAssassin.md
+      - Vulture - Support: pawnsDesigned/Vulture/VultureSupport.md
+    - Victor:
+      - Victor: pawnsDesigned/Victor/Victor.md
+      - Victor - Assassin: pawnsDesigned/Victor/VictorAssassin.md
+      - Victor - Mage: pawnsDesigned/Victor/VictorMage.md
   - Pawns (Backlogged):
-    - Pawns List: basicPages/pawnsList.md
-  - Pawn Scrap Pad: basicPages/pawnScrapPad.md
+    - Bandit:
+      - Bandit: pawnsBacklogged/Bandit/Bandit.md
+      - Bandit - Ranger: pawnsBacklogged/Bandit/BanditRanger.md
+      - Bandit - Support: pawnsBacklogged/Bandit/BanditSupport.md
+    - Brain:
+      - Brain: pawnsBacklogged/Brain/Brain.md
+      - Brain - Bruiser: pawnsBacklogged/Brain/BrainBruiser.md
+      - Brain - Ranger: pawnsBacklogged/Brain/BrainRanger.md
+      - Brain - Support: pawnsBacklogged/Brain/BrainSupport.md
+    - Cerberus:
+      - Cerberus: pawnsBacklogged/Cerberus/Cerberus.md
+      - Cerberus - Assassin: pawnsBacklogged/Cerberus/CerberusAssassin.md
+      - Cerberus - Support: pawnsBacklogged/Cerberus/CerberusSupport.md
+    - Diamond:
+      - Diamond: pawnsBacklogged/Diamond/Diamond.md
+      - Diamond - Mage: pawnsBacklogged/Diamond/DiamondMage.md
+      - Diamond - Support: pawnsBacklogged/Diamond/DiamondSupport.md
+    - Ghost:
+      - Ghost: pawnsBacklogged/Ghost/Ghost.md
+      - Ghost - Mage: pawnsBacklogged/Ghost/GhostMage.md
+      - Ghost - Support: pawnsBacklogged/Ghost/GhostSupport.md
+    - Lynx:
+      - Lynx: pawnsBacklogged/Lynx/Lynx.md
+      - Lynx - Tank: pawnsBacklogged/Lynx/LynxTank.md
+      - Lynx - Assassin: pawnsBacklogged/Lynx/LynxAssassin.md
+      - Lynx - Support: pawnsBacklogged/Lynx/LynxSupport.md
+    - Marvel:
+      - Marvel: pawnsBacklogged/Marvel/Marvel.md
+      - Marvel - Tank: pawnsBacklogged/Marvel/MarvelTank.md
+      - Marvel - Bruiser: pawnsBacklogged/Marvel/MarvelBruiser.md
+    - Noble:
+      - Noble: pawnsBacklogged/Noble/Noble.md
+      - Noble - Assassin: pawnsBacklogged/Noble/NobleAssassin.md
+      - Noble - Mage: pawnsBacklogged/Noble/NobleMage.md
+    - Nomad:
+      - Nomad: pawnsBacklogged/Nomad/Nomad.md
+      - Nomad - Mage: pawnsBacklogged/Nomad/NobleMage.md
+      - Nomad - Support: pawnsBacklogged/Nomad/NomadSupport.md
+    - Primordial:
+      - Primordial: pawnsBacklogged/Primordial/Primordial.md
+      - Primordial - Tank: pawnsBacklogged/Primordial/PrimordialTank.md
+      - Primordial - Bruiser: pawnsBacklogged/Primordial/PrimordialBruiser.md
+      - Primordial - Assassin: pawnsBacklogged/Primordial/PrimordialAssassin.md
+    - Psyche:
+      - Psyche: pawnsBacklogged/Psyche/Psyche.md
+      - Psyche - Bruiser: pawnsBacklogged/Psyche/PsycheBruiser.md
+      - Psyche - Support: pawnsBacklogged/Psyche/PsycheSupport.md
+    - Shade:
+      - Shade: pawnsBacklogged/Shade/Shade.md
+      - Shade - Bruiser: pawnsBacklogged/Shade/ShadeBruiser.md
+      - Shade - Assassin: pawnsBacklogged/Shade/ShadeAssassin.md
+    - Shuriken:
+      - Shuriken: pawnsBacklogged/Shuriken/Shuriken.md
+      - Shuriken - Mage: pawnsBacklogged/NoShurikenmad/ShurikenMage.md
+      - Shuriken - Ranger: pawnsBacklogged/Shuriken/ShurikenRanger.md
+    - Slayer:
+      - Slayer: pawnsBacklogged/Slayer/Slayer.md
+      - Slayer - Assassin: pawnsBacklogged/Slayer/SlayerAssassin.md
+      - Slayer - Ranger: pawnsBacklogged/Slayer/SlayerRanger.md
