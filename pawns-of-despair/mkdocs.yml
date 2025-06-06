@@ -5,6 +5,11 @@ markdown_extensions:
   - pymdownx.blocks.caption
 extra_css:
   - stylesheets/styles.css
+validation:
+  omitted_files: ignore
+  absolute_links: ignore
+  unrecognized_links: ignore
+  not_found: ignore
 theme:
   name: material
   palette:

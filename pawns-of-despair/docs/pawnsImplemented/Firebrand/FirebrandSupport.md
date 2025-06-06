@@ -3,11 +3,11 @@ Difficulty: Easy
 
 - 
 
-**Skill Tree:**
+### **Skill Tree:**
 
 <br>
 
-**Stats:**
+### **Stats:**
 
 <br>
 
@@ -28,7 +28,7 @@ Basic Attack:
 
 <br>
 
-**Innate Ability:**
+### **Innate Ability:**
 
 ```
 a - Passive
@@ -38,18 +38,18 @@ a - Passive
 
 <br>
 
-**Level 1:**
+### **Level 1:**
 
 <br>
 
-**Level 3:**
+### **Level 3:**
 
 <br>
 
-**Level 5:**
+### **Level 5:**
 
 <br>
 
-**Level 7:**
+### **Level 7:**
 
 <br>

@@ -1,4 +1,4 @@
-**Game Modes:**
+### **Game Modes:**
 
 Roguelike Mode: Fight through X fights. Co-op of some sort.
 
@@ -18,7 +18,7 @@ Curated Mode game flow: Pick a team of X characters, do the special objectives t
 
 <br>
 
-**Game Objectives:**
+### **Game Objectives:**
 
 Assassinate - Kill X unit/building/object.
 
@@ -36,7 +36,7 @@ Turn limits are possible for all (partial wins, etc).
 
 <br>
 
-**Larger Game Objectives:**
+### **Larger Game Objectives:**
 
 Attack and Defend - Defend your base/unit/building/object and destroy the enemy’s base/unit/building/object.
 
