@@ -231,7 +231,7 @@ nav:
       - Noble - Mage: pawnsBacklogged/Noble/NobleMage.md
     - Nomad:
       - Nomad: pawnsBacklogged/Nomad/Nomad.md
-      - Nomad - Mage: pawnsBacklogged/Nomad/NobleMage.md
+      - Nomad - Mage: pawnsBacklogged/Nomad/NomadMage.md
       - Nomad - Support: pawnsBacklogged/Nomad/NomadSupport.md
     - Primordial:
       - Primordial: pawnsBacklogged/Primordial/Primordial.md
@@ -248,7 +248,7 @@ nav:
       - Shade - Assassin: pawnsBacklogged/Shade/ShadeAssassin.md
     - Shuriken:
       - Shuriken: pawnsBacklogged/Shuriken/Shuriken.md
-      - Shuriken - Mage: pawnsBacklogged/NoShurikenmad/ShurikenMage.md
+      - Shuriken - Mage: pawnsBacklogged/Shuriken/ShurikenMage.md
       - Shuriken - Ranger: pawnsBacklogged/Shuriken/ShurikenRanger.md
     - Slayer:
       - Slayer: pawnsBacklogged/Slayer/Slayer.md
