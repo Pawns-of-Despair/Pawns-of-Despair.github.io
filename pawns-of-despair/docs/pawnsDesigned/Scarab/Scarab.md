@@ -1,6 +1,6 @@
-[Agent - Tank](/pawnsImplemented/Agent/AgentTank/)
-
-[Agent - Assassin](/pawnsImplemented/Agent/AgentAssassin/)
+- [Scarab - Tank](/pawnsDesigned/Scarab/ScarabTank/)
+- [Scarab - Bruiser](/pawnsDesigned/Scarab/ScarabBruiser/)
+- [Scarab - Ranger](/pawnsDesigned/Scarab/ScarabRanger/)
 
 **Lore:**
 

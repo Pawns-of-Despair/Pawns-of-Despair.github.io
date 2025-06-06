@@ -1,6 +1,5 @@
-[Agent - Tank](/pawnsImplemented/Agent/AgentTank/)
-
-[Agent - Assassin](/pawnsImplemented/Agent/AgentAssassin/)
+- [Shuriken - Mage](/pawnsBacklogged/Shuriken/ShurikenMage/)
+- [Shuriken - Ranger](/pawnsBacklogged/Shuriken/ShurikenRanger/)
 
 **Lore:**
 

@@ -1,6 +1,6 @@
-[Agent - Tank](/pawnsImplemented/Agent/AgentTank/)
-
-[Agent - Assassin](/pawnsImplemented/Agent/AgentAssassin/)
+- [Bullseye - Mage](/pawnsDesigned/Bullseye/BullseyeMage/)
+- [Bullseye - Ranger](/pawnsDesigned/Bullseye/BullseyeRanger/)
+- [Bullseye - Support](/pawnsDesigned/Bullseye/BullseyeSupport/)
 
 **Lore:**
 

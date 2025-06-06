@@ -1,6 +1,5 @@
-[Agent - Tank](/pawnsImplemented/Agent/AgentTank/)
-
-[Agent - Assassin](/pawnsImplemented/Agent/AgentAssassin/)
+- [Facade - Assassin](/pawnsImplemented/Facade/FacadeAssassin/)
+- [Facade - Ranger](/pawnsImplemented/Facade/FacadeRanger/)
 
 **Lore:**
 

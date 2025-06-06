@@ -1,6 +1,5 @@
-[Agent - Tank](/pawnsImplemented/Agent/AgentTank/)
-
-[Agent - Assassin](/pawnsImplemented/Agent/AgentAssassin/)
+- [Cerberus - Assassin](/pawnsBacklogged/Cerberus/CerberusAssassin/)
+- [Cerberus - Support](/pawnsBacklogged/Cerberus/CerberusSupport/)
 
 **Lore:**
 

@@ -1,6 +1,6 @@
-[Agent - Tank](/pawnsImplemented/Agent/AgentTank/)
-
-[Agent - Assassin](/pawnsImplemented/Agent/AgentAssassin/)
+- [Joker - Mage](/pawnsDesigned/Joker/JokerMage/)
+- [Joker - Ranger](/pawnsDesigned/Joker/JokerRanger/)
+- [Joker - Support](/pawnsDesigned/Joker/JokerSupport/)
 
 **Lore:**
 

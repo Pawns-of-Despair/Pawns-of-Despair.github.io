@@ -1,6 +1,5 @@
-[Agent - Tank](/pawnsImplemented/Agent/AgentTank/)
-
-[Agent - Assassin](/pawnsImplemented/Agent/AgentAssassin/)
+- [Nomad - Mage](/pawnsBacklogged/Nomad/NomadMage/)
+- [Nomad - Support](/pawnsBacklogged/Nomad/NomadSupport/)
 
 **Lore:**
 

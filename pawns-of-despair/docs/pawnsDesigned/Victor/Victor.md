@@ -1,6 +1,5 @@
-[Agent - Tank](/pawnsImplemented/Agent/AgentTank/)
-
-[Agent - Assassin](/pawnsImplemented/Agent/AgentAssassin/)
+- [Victor - Assassin](/pawnsDesigned/Victor/VictorAssassin/)
+- [Victor - Mage](/pawnsDesigned/Victor/VictorMage/)
 
 **Lore:**
 

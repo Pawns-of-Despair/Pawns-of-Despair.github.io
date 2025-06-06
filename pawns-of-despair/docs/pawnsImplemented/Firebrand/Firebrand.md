@@ -1,6 +1,5 @@
-[Agent - Tank](/pawnsImplemented/Agent/AgentTank/)
-
-[Agent - Assassin](/pawnsImplemented/Agent/AgentAssassin/)
+- [Firebrand - Mage](/pawnsImplemented/Firebrand/FirebrandMage/)
+- [Firebrand - Support](/pawnsImplemented/Firebrand/FirebrandSupport/)
 
 **Lore:**
 

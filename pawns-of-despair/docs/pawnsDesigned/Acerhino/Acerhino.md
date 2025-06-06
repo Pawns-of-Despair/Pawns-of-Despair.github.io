@@ -1,6 +1,5 @@
-[Agent - Tank](/pawnsImplemented/Agent/AgentTank/)
-
-[Agent - Assassin](/pawnsImplemented/Agent/AgentAssassin/)
+- [Acerhino - Tank](/pawnsDesigned/Acerhino/AcerhinoTank/)
+- [Acerhino - Bruiser](/pawnsDesigned/Acerhino/AcerhinoBruiser/)
 
 **Lore:**
 

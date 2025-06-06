@@ -1,6 +1,5 @@
-[Agent - Tank](/pawnsImplemented/Agent/AgentTank/)
-
-[Agent - Assassin](/pawnsImplemented/Agent/AgentAssassin/)
+- [Marvel - Tank](/pawnsBacklogged/Marvel/MarvelTank/)
+- [Marvel - Bruiser](/pawnsBacklogged/Marvel/MarvelBruiser/)
 
 **Lore:**
 

@@ -1,6 +1,5 @@
-[Agent - Tank](/pawnsImplemented/Agent/AgentTank/)
-
-[Agent - Assassin](/pawnsImplemented/Agent/AgentAssassin/)
+- [Bladesaint - Tank](/pawnsImplemented/Bladesaint/BladesaintTank/)
+- [Bladesaint - Bruiser](/pawnsImplemented/Bladesaint/BladesaintBruiser/)
 
 **Lore:**
 

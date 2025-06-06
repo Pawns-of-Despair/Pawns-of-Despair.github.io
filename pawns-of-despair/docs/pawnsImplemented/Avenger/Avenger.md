@@ -1,6 +1,5 @@
-[Agent - Tank](/pawnsImplemented/Agent/AgentTank/)
-
-[Agent - Assassin](/pawnsImplemented/Agent/AgentAssassin/)
+- [Avenger - Tank](/pawnsImplemented/Avenger/AvengerTank/)
+- [Avenger - Bruiser](/pawnsImplemented/Avenger/AvengerBruiser/)
 
 **Lore:**
 

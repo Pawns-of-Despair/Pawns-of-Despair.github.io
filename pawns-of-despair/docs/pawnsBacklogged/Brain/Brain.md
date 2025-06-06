@@ -1,6 +1,6 @@
-[Agent - Tank](/pawnsImplemented/Agent/AgentTank/)
-
-[Agent - Assassin](/pawnsImplemented/Agent/AgentAssassin/)
+- [Brain - Bruiser](/pawnsBacklogged/Brain/BrainBruiser/)
+- [Brain - Ranger](/pawnsBacklogged/Brain/BrainRanger/)
+- [Brain - Support](/pawnsBacklogged/Brain/BrainSupport/)
 
 **Lore:**
 

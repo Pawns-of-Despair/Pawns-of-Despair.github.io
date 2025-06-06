@@ -1,6 +1,6 @@
-[Agent - Tank](/pawnsImplemented/Agent/AgentTank/)
-
-[Agent - Assassin](/pawnsImplemented/Agent/AgentAssassin/)
+- [Deathbringer - Bruiser](/pawnsDesigned/Deathbringer/DeathbringerBruiser/)
+- [Deathbringer - Assassin](/pawnsDesigned/Deathbringer/DeathbringerAssassin/)
+- [Deathbringer - Support](/pawnsDesigned/Deathbringer/DeathbringerSupport/)
 
 **Lore:**
 

@@ -1,6 +1,5 @@
-[Agent - Tank](/pawnsImplemented/Agent/AgentTank/)
-
-[Agent - Assassin](/pawnsImplemented/Agent/AgentAssassin/)
+- [Supernova - Mage](/pawnsImplemented/Supernova/SupernovaMage/)
+- [Supernova - Ranger](/pawnsImplemented/Supernova/SupernovaRanger/)
 
 **Lore:**
 

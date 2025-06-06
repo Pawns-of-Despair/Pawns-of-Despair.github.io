@@ -1,6 +1,5 @@
-[Agent - Tank](/pawnsImplemented/Agent/AgentTank/)
-
-[Agent - Assassin](/pawnsImplemented/Agent/AgentAssassin/)
+- [Vulture - Assassin](/pawnsDesigned/Vulture/VultureAssassin/)
+- [Vulture - Support](/pawnsDesigned/Vulture/VultureSupport/)
 
 **Lore:**
 

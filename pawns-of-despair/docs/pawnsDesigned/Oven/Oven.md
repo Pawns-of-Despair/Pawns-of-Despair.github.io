@@ -1,6 +1,5 @@
-[Agent - Tank](/pawnsImplemented/Agent/AgentTank/)
-
-[Agent - Assassin](/pawnsImplemented/Agent/AgentAssassin/)
+- [Oven - Tank](/pawnsDesigned/Oven/OvenTank/)
+- [Oven - Bruiser](/pawnsDesigned/Oven/OvenBruiser/)
 
 **Lore:**
 

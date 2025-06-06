@@ -1,6 +1,5 @@
-[Agent - Tank](/pawnsImplemented/Agent/AgentTank/)
-
-[Agent - Assassin](/pawnsImplemented/Agent/AgentAssassin/)
+- [Fixer - Mage](/pawnsImplemented/Fixer/FixerMage/)
+- [Fixer - Support](/pawnsImplemented/Fixer/FixerSupport/)
 
 **Lore:**
 

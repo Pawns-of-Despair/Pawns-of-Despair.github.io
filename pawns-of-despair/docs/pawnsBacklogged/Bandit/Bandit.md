@@ -1,6 +1,5 @@
-[Agent - Tank](/pawnsImplemented/Agent/AgentTank/)
-
-[Agent - Assassin](/pawnsImplemented/Agent/AgentAssassin/)
+- [Bandit - Ranger](/pawnsBacklogged/Bandit/BanditRanger/)
+- [Bandit - Support](/pawnsBacklogged/Bandit/BanditSupport/)
 
 **Lore:**
 

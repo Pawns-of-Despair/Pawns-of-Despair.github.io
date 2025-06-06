@@ -1,6 +1,5 @@
-[Agent - Tank](/pawnsImplemented/Agent/AgentTank/)
-
-[Agent - Assassin](/pawnsImplemented/Agent/AgentAssassin/)
+- [Hellhound - Tank](/pawnsImplemented/Hellhound/HellhoundTank/)
+- [Hellhound - Assassin](/pawnsImplemented/Hellhound/HellhoundAssassin/)
 
 **Lore:**
 

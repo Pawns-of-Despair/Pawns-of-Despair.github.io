@@ -1,6 +1,5 @@
-[Agent - Tank](/pawnsImplemented/Agent/AgentTank/)
-
-[Agent - Assassin](/pawnsImplemented/Agent/AgentAssassin/)
+- [Commissar - Tank](/pawnsDesigned/Commissar/CommissarTank/)
+- [Commissar - Bruiser](/pawnsDesigned/Commissar/CommissarBruiser/)
 
 **Lore:**
 

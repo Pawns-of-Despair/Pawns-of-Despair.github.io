@@ -1,6 +1,5 @@
-[Agent - Tank](/pawnsImplemented/Agent/AgentTank/)
-
-[Agent - Assassin](/pawnsImplemented/Agent/AgentAssassin/)
+- [Dracon - Mage](/pawnsDesigned/Dracon/DraconMage/)
+- [Dracon - Support](/pawnsDesigned/Dracon/DraconSupport/)
 
 **Lore:**
 

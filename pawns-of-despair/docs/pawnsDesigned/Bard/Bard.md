@@ -1,6 +1,5 @@
-[Agent - Tank](/pawnsImplemented/Agent/AgentTank/)
-
-[Agent - Assassin](/pawnsImplemented/Agent/AgentAssassin/)
+- [Bard - Mage](/pawnsDesigned/Bard/BardMage/)
+- [Bard - Support](/pawnsDesigned/Bard/BardSupport/)
 
 **Lore:**
 

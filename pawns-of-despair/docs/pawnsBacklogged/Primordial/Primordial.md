@@ -1,6 +1,6 @@
-[Agent - Tank](/pawnsImplemented/Agent/AgentTank/)
-
-[Agent - Assassin](/pawnsImplemented/Agent/AgentAssassin/)
+- [Primordial - Tank](/pawnsBacklogged/Primordial/PrimordialTank/)
+- [Primordial - Bruiser](/pawnsBacklogged/Primordial/PrimordialBruiser/)
+- [Primordial - Assassin](/pawnsBacklogged/Primordial/PrimordialAssassin/)
 
 **Lore:**
 

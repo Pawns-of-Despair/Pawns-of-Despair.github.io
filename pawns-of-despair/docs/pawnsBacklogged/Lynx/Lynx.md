@@ -1,6 +1,6 @@
-[Agent - Tank](/pawnsImplemented/Agent/AgentTank/)
-
-[Agent - Assassin](/pawnsImplemented/Agent/AgentAssassin/)
+- [Lynx - Tank](/pawnsBacklogged/Lynx/LynxTank/)
+- [Lynx - Assassin](/pawnsBacklogged/Lynx/LynxAssassin/)
+- [Lynx - Support](/pawnsBacklogged/Lynx/LynxSupport/)
 
 **Lore:**
 
