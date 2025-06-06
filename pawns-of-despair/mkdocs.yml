@@ -33,7 +33,7 @@ theme:
         icon: material/brightness-4
         name: Switch to system preference
 nav:
-  - Index Page: index.md
+  - Home: index.md
   - Intro: basicPages/intro.md
   - Motivations and Game Comparisons: basicPages/motivations.md
   - Basic Mechanics: basicPages/basicMechanics.md
