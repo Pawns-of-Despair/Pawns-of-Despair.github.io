@@ -44,6 +44,8 @@ Atlas Reactor is VERY similar to what we are building, with skill trees, teams a
 
 Lamplighter League has the external systems around skill tree, shop, and map that are quite similar to something I’d want to build. However, the turn based gameplay is very similar to xcom, with randomness and a 2 AP move-attack system.
 
+Engage is a game that I played a long time ago, which I thoroughly enjoyed. It is a flash game- turn based with a 1 move 1 attack system, with shop, upgrade, and map jumping systems to allow you to fight different groups of enemies repeatedly in space combat. This game is very old and I am placing it here for nostalgia with some relevance to the game concept; even this long ago were there games like this.
+
 Aesthetic is similar to Battle Brothers, but I never played this game. 
 
 Heroes of the Storm has a talent tree system that is well fit for what I’d like for skill trees. Same as Partisans 1941, which has an amazingly similar skill tree system. 
