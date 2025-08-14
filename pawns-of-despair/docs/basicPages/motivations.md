@@ -22,7 +22,7 @@ XCOM is too hard to play consistently and remember the previous setup of bases, 
 
 Into the Breach is closer to what I want, but I still like systems such as cover systems, abilities, and other dynamic gameplay elements in XCOM. Puzzle gameplay is cool, but limited health and shown enemy attacks/spawns are different gameplay loops than what I want.
 
-Ignited Steel is similar to Into the Breach but has bigger HP pools and heavier combat overall.
+Ignited Steel is similar to Into the Breach but has bigger HP pools and heavier combat overall. The biggest issue is that you MUST win every fight, if you lose even slightly, your run is over, compared to Into the Breach which has progressive losses (losing a resource or life instead of the entire run).
 
 Honkai Star Rail is similar in aesthetic to ER’s gameplay (anime style), but the turn-based combat is different. There are limited actions per character, and the gacha gameplay is not something I want.
 
